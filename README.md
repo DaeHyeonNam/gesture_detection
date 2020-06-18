@@ -23,4 +23,4 @@ tensorflow > 2.0
 
 
 #### execute
-python real-time_prediction
+python real-time_prediction.py
