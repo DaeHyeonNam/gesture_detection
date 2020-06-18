@@ -3,6 +3,7 @@ import urllib
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
+import cv2
 
 #Gesture Model
 model = keras.models.load_model('./models/gesture_model.h5')
