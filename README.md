@@ -16,8 +16,11 @@ Since the neural net is small, real-time prediciton could be possible. The most 
 #### Dependency
 
 opencv2
+
 numpy
+
 tensorflow > 2.0
+
 
 #### execute
 python real-time_prediction
