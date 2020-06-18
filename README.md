@@ -11,7 +11,7 @@ In the data folder, we will be able to find train and test csv files. These file
 I trained data using small neural net. You can find the codes in the train file. And the accuracy I got was 91%.
 Since the neural net is small, real-time prediciton could be possible. The most of big latency in demo file is from hand tracking not from gesture recognition procedure.
 
-### To run it
+### 3. To run it
 
 #### Dependency
 
