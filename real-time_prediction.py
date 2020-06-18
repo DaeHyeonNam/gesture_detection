@@ -1,12 +1,6 @@
-import time
-import threading
-import cv2
 from src.hand_tracker import HandTracker
 import urllib
 import numpy as np
-import msvcrt, time, csv
-import os
-import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow import keras
 
